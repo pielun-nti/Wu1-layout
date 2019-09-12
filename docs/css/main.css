@@ -1,0 +1,16 @@
+main {
+    width: 80%;
+    display: flex;
+    margin: 0 auto;
+}
+nav {
+    width: 20%;
+    background-color: lightgray;
+}
+section {
+    width: 80%;
+}
+a {
+    text-decoration: none;
+    color: red;
+}
